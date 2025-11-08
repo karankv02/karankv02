@@ -48,7 +48,7 @@ I’m constantly experimenting with new technologies and improving my understand
 | 🗣️ **Real-Time Language Translator** | Speech/text/file-based multilingual translator with TTS. | Streamlit, Transformers |
 | 🪖 **Military Asset Management System** | Full-stack web app for managing military assets and purchases. | MERN Stack |
 
-> 🔗 Check out more on my [GitHub Repositories](https://github.com/KaranVakkalad?tab=repositories)
+> 🔗 Check out more on my [GitHub Repositories](https://github.com/karankv02?tab=repositories)
 
 ---
 
@@ -71,13 +71,13 @@ I’m constantly experimenting with new technologies and improving my understand
 ### 📫 Connect With Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/karanvakkalad" target="_blank">
+  <a href="https://www.linkedin.com/in/karan-vakkalad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/KaranVakkalad" target="_blank">
+  <a href="https://github.com/karankv02" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:karanvakkalad@gmail.com">
+  <a href="mailto:karanvakkalad02@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
