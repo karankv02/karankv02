@@ -87,12 +87,12 @@ I’m constantly experimenting with new technologies and improving my understand
 ### 🧩 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KaranVakkalad&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranVakkalad&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karankv02&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karankv02&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranVakkalad&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankv02&layout=compact&theme=tokyonight" />
 </p>
 
 ---
